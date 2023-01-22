@@ -1,0 +1,22 @@
+.result{
+    margin-left: 40%;
+    display:None
+}
+h1,.inp{
+    margin-left: 60%;
+    transform: translateX(-50%);
+}
+.inp{
+    margin-left: 61%;
+}
+div{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.head{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
